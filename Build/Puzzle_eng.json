@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Puzzle",
+"dataUrl": "Puzzle_eng.data.unityweb",
+"wasmCodeUrl": "Puzzle_eng.wasm.code.unityweb",
+"wasmFrameworkUrl": "Puzzle_eng.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
